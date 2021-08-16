@@ -2166,7 +2166,7 @@ left: -25px!important;}
     position: relative !important;
     top: -360px!important;
     z-index: 9999!important;
-    left: 108px!important;
+    left: 108px!important;    width: 30px !important;
 }
 	.ply {
     width: 140px !important;
