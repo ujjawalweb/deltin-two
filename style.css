@@ -1037,7 +1037,7 @@ footer {
   .imd {
     width: 60px;
     height: 30px;
-  border-radius: 26px;position:relative!important; left:0 !important;}
+  border-radius: 26px;position:relative!important; left:-7px !important;}
   
   
   .footer-content-column ul li a {
@@ -1216,7 +1216,8 @@ header {
     line-height: 1px;
     padding: 20px;
     font-size: 17px;
-    width: 230px;
+    width: 250px;
+	font-weight:700;
 
     transition: all 0.5s;}
 
@@ -2127,6 +2128,11 @@ nav a:hover {
     left: 69px !important;
     font-size: 17px;
     letter-spacing: 2;}
+	
+	
+	.ps {
+    position: relative!important;
+    left: -128px!important;}
 	}
 	
 	
@@ -2185,14 +2191,14 @@ nav a:hover {
 	
 	.ps {
     position: relative!important;
-    left: -169px!important;}
+    left: -183px!important;}
 	
 	
 	.stck {
     position: relative!important;
-    left: -66px!important;}
+    left: -77px!important;}
 	
-	.secure{position:relative!important;left:-86px!important;}
+	.secure{position:relative!important;left:-98px!important;}
 	.loga {
     position: relative;
     left: -77px;
@@ -2213,7 +2219,7 @@ left: 130px!important;}
 @media only screen and (min-width: 425px) and (max-width:440px){
 	.ps {
     position: relative!important;
-    left: -196px!important;}
+    left: -205px!important;}
 	
 	.nav-toggle-label {
     position: absolute;
@@ -2253,7 +2259,7 @@ left: 130px!important;}
     width: 100%;
     height: 85px !important;}
 	
-		.secure{position:relative!important;left:-113px!important;}
+		.secure{position:relative!important;left:-118px!important;}
 		
 		
 		.stck {
@@ -2279,9 +2285,3 @@ left: 130px!important;}
 
 
 
-@media only screen and (min-width: 441px) and (max-width:500px){
-	
-	
-	
-	
-}
