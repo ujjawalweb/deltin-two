@@ -2083,7 +2083,7 @@ nav a:hover {
 
 
 	
-	@media only screen and (min-width:360px) and (max-width:410px){
+	@media only screen and (min-width:360px) and (max-width:365px){
 	.nav-toggle-label {
     position: absolute;
     top:5px;
@@ -2137,6 +2137,40 @@ nav a:hover {
 	
 	
 	
+	@media only screen and (min-width:365px) and (max-width:400px){
+		
+		.ps {
+    position: relative!important;
+    left: -134px!important;
+}
+
+.nav-toggle-label {
+    position: absolute;
+    top: 5px;
+    left: 287px;
+    margin-left: 1em;
+    height: 100%;
+    display: flex;
+align-items: center;}
+
+.stck {
+    position: relative!important;
+left: -25px!important;}
+
+.los{    position: relative;
+    left: -71px;
+}
+
+.mains {
+    display: flex!important;
+    position: relative !important;
+    top: -360px!important;
+    z-index: 9999!important;
+    left: 108px!important;
+}
+		
+	}
+	
 	@media only screen and (min-width: 400px) and (max-width:424px){
 .nav-toggle-label {
     position: absolute;
@@ -2164,7 +2198,7 @@ nav a:hover {
 }
 .los {
     width: 70px!important;
-    margin-left: -196px!important;
+    margin-left: -202px!important;
     margin-top: 3px!important;
 }
 	
@@ -2191,14 +2225,14 @@ nav a:hover {
 	
 	.ps {
     position: relative!important;
-    left: -183px!important;}
+    left: -167px!important;}
 	
 	
 	.stck {
     position: relative!important;
-    left: -75px!important;}
+    left: -61px!important;}
 	
-	.secure{position:relative!important;left:-98px!important;}
+	.secure{position:relative!important;left:-81px!important;}
 	.loga {
     position: relative;
     left: -77px;
